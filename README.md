@@ -91,6 +91,11 @@ used to display dynamic visual outputs on in-store digital screens.
 used to generate face swap for mannequin 
 
 
+### Future Enchancements
+
+Develop a comprehensive system architecture with a well-defined workflow to ensure seamless integration and scalability.
+
+
 
 
 
