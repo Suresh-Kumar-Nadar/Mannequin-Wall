@@ -17,22 +17,29 @@ Create an engaging **in-store experience** where users:
 
 ## Ideation 
 
-Version 1 : Mannequin Wall 
+### Version 1 : Mannequin Wall 
 
-### Mannequin wall (Before) :
+#### Mannequin wall (Before) :
 
    ![Alt Text](Readme_assets/v1idea.jpg)
 
-### Input Image isn't disclosed to public
+#### Input Image isn't disclosed to public
 
 #### User Scans Qr code in the standee , redirected to our website (Demo) 
 
 ![Alt Text](Readme_assets/FaceSwapApp.png)
 
 
-### Mannequin Wall (After) :
+#### Mannequin Wall (After) :
 
 ![Alt Text](Readme_assets/output.jpg)
+
+
+
+### Version 2 : 
+
+![Alt Text](Readme_assets/v2-idea.jpg)
+
 
 ## ⚙️ Installation Guide
 
@@ -86,4 +93,4 @@ used to generate face swap for mannequin
 
 
 
-"# Mannequin-Wall" 
+
