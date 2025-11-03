@@ -1,6 +1,6 @@
 # 🧍‍♂️ Mannequin Wall — Interactive Deepfake Wall
 
-An interactive **An interactive AI-powered mannequin display system** that lets customers visualize themselves as brand ambassadors or models by swapping their faces onto mannequins or ambassadors wearing clothing and accessories in real time..  
+**An interactive AI-powered mannequin display system** that lets customers visualize themselves as brand ambassadors or models by swapping their faces onto mannequins or ambassadors wearing clothing and accessories in real time..  
 
 This system integrates a **FastAPI backend**, a **Roop-based deepfake model**, and a **Remote Slideshow System** running on a store display.
 
